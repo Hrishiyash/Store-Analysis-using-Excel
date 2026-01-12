@@ -94,4 +94,4 @@ Interactive Filters (Slicers)
   Detect high-demand categories to optimize stock and promotions.
 
   
-**Screenshot** : 
+**Screenshot** : https://github.com/Hrishiyash/Store-Analysis-using-Excel/blob/main/Screenshot%202026-01-12%20100810.png
